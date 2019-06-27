@@ -8,6 +8,7 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 Open the `dog_app.ipynb` on a GPU enabled Python notebook environment, or Google colab (a link is directly on top in the notebook file). The notebook consists of further technical details. Run the notebook to classify your own dog images.
 
 ### Further improvements
+- [ ] Implement the same thing with Tensorflow.
 - [ ] Webapp using flask
 - [ ] Overlay a Snapchat-like filter with dog ears on detected human heads.
 - [ ] Added functionality: A single class with highest probability is shown. Added topk classes, if probability is less than a threshold.
